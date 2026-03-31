@@ -28,6 +28,7 @@ Movies and TV Shows on Streaming Platforms dataset.
 
 ## Repository Structure
 
+```
 data/
   raw/        # Original datasets (Movies and TV Shows)
   cleaned/    # Cleaned datasets used for analysis
@@ -39,6 +40,7 @@ visuals/      # Charts and graphs used in the presentation
 presentation/ # Final PowerPoint slides
 
 README.md     # Project overview and documentation
+```
 
 ## Tools Used 
 
